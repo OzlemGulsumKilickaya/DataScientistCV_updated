@@ -1,2 +1,2 @@
-# DataScientistCV_updated
+# CV_updated
 Up to date CV
